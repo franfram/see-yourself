@@ -11,7 +11,7 @@ maybe we could have different versions of yourself by training only on chats whe
 Maybe we could ask to upload text or audios telling transformative experiences or things that were extremely important. Or maybe tell the books that marked you. 
 Maybe we could ask to upload videos to clone your image. 
 
-
+You will probably have to make a vectordb of your important memories, so that you can speak about them. Also about important facts like age, sex, name, family members, friends, partners, etc. Can use LlamaPacks for this, but should somehow manage when to check those.  
 
 
 
